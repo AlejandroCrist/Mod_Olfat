@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/07 13:11:23.000.814,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2015/10/14 13:11:42.000.669,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2015/11/17 13:05:53.000.843,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2016/02/23 16:48:53.000.753,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2016/04/15 13:01:49.000.797,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2016/09/14 13:00:54.000.001,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2016/09/16 12:01:38.000.828,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2017/01/10 13:13:29.000.681,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2017/11/02 18:19:49.987,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2017/11/02 18:20:30.541,C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\Unit6.pas=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2017/11/02 18:20:30.541,C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\Unit6.dfm=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2017/11/02 18:20:43.898,C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\Mod_Olfat.dproj=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Project8.dproj</Transaction>
+    <Transaction>2017/11/02 18:22:34.473,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\ConfigU.pas</Transaction>
+    <Transaction>2017/11/02 18:22:34.481,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\Global_Unit1.pas</Transaction>
+    <Transaction>2017/11/02 18:22:34.507,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\GridU.pas</Transaction>
+    <Transaction>2017/11/02 18:22:34.572,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\InicParadigmaU.pas</Transaction>
+    <Transaction>2017/11/02 18:22:34.605,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\ListValvU.pas</Transaction>
+    <Transaction>2017/11/02 18:22:34.931,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\MostrarU.pas</Transaction>
+    <Transaction>2017/11/02 18:22:34.962,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\QProgBar.pas</Transaction>
+    <Transaction>2017/11/02 18:25:25.638,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Olfatometro_V5_Con_Respiracion_v1 - copia\AddValvU.pas</Transaction>
+    <Transaction>2017/11/02 18:32:01.081,C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\InicParadigmaU.pas=</Transaction>
+    <Transaction>2017/11/02 18:32:20.290,C:\Users\alex\Documents\Embarcadero\Studio\Projects\Olfatometro_V5_Con_Respiracion_v1 - copia\AddValvU.pas=</Transaction>
+    <Transaction>2017/11/02 18:32:25.218,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\AddValvU.pas</Transaction>
+    <Transaction>2017/11/02 18:33:43.164,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\ACCES32.pas</Transaction>
+    <Transaction>2017/11/02 18:34:08.559,=C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\AIOUSB.pas</Transaction>
+    <Transaction>2017/11/02 18:36:21.612,C:\Users\alex\Documents\Embarcadero\Studio\Projects\Mod_Olfatometro\Unit6.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
